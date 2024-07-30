@@ -1,4 +1,4 @@
-package com.sparta.springmaster.util;
+package com.sparta.springmaster.jwt;
 
 import com.sparta.springmaster.entity.UserRoleEnum;
 import io.jsonwebtoken.*;

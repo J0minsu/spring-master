@@ -5,7 +5,7 @@ import com.sparta.springmaster.dto.SignupRequestDto;
 import com.sparta.springmaster.entity.User;
 import com.sparta.springmaster.entity.UserRoleEnum;
 import com.sparta.springmaster.repository.UserRepository;
-import com.sparta.springmaster.util.JwtUtil;
+import com.sparta.springmaster.jwt.JwtUtil;
 import jakarta.servlet.http.HttpServletResponse;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.crypto.password.PasswordEncoder;
